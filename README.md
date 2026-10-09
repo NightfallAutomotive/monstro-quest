@@ -1,3 +1,4 @@
+Was going to use as the 404 page after updating, but made a race game for the site, this will be here if anyone wants to play with the updated files.
 # 🔥 MONSTRO QUEST
 
 A fully playable, original retro monster-catching RPG **built from scratch in 60 minutes** for a "1 AI recreated Pokemon Red in 60 minutes" YouTube video.
